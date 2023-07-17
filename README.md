@@ -56,7 +56,7 @@ aws_instance.newinstance: Still creating... [10s elapsed]
 aws_instance.newinstance: Creation complete after 15s [id=i-0e4114627d45e0620]
 ```
 
-AMIとNAMEタグに**-clone**が付いたEC2ができる。さらにAMIは複製後に自動的に消される<br>
+AMIとNAMEタグに **-clone** が付いたEC2ができる。さらにAMIは複製後に自動的に消される<br>
 
 ![4](https://github.com/dip-kato/terraform-ec2-clone/assets/95202883/f19177e5-f5ff-47ed-9669-09a880a7cb35)
 
