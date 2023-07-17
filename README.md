@@ -85,3 +85,7 @@ Destroy complete! Resources: 1 destroyed.
 ①publicなのはグローバルIPがつかない<br>
 ②タグが複製されない<br>
 ③sshの鍵が空になる<br>
+
+# ライセンス
+
+Apache-2.0 license<br>
